@@ -1,5 +1,5 @@
 # BeowulfClusterSampleMatrixMultiplication
-Multipluing a sample matrix by itself in a clustered environment with the slave and master node configuration, by using each node's processing power.
+Multiplying a sample matrix by itself in a clustered environment with the slave and master node configuration, by using each node's processing power.
 The user will provide the matrix size, and on the basis of that the program will output the time taken to calculate the square of matrix in both parallel and non-parallel computing.
 
 Files Description:
